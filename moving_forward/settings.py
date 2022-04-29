@@ -45,6 +45,9 @@ INSTALLED_APPS = [
     'home',
     'packages',
     'users',
+    'events',
+    'friendship',
+    'timezone_field',
 ]
 
 MIDDLEWARE = [
