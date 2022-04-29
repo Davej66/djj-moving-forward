@@ -1,0 +1,32 @@
+[
+    {
+        "pk": 1,
+        "model": "packages.package",
+        "fields": {
+            "tier": 1,
+            "name": "Nutrition Plans",
+            "description": "Lorem ipsum here",
+            "price": 9.99
+        }
+    },
+    {
+        "pk": 2,
+        "model": "packages.package",
+        "fields": {
+            "tier": 2,
+            "name": "Fitness plans",
+            "description": "Lorem ipsum here",
+            "price": 9.99
+        }
+    },
+    {
+        "pk": 3,
+        "model": "packages.package",
+        "fields": {
+            "tier": 3,
+            "name": "Fitness & Nutrition Plans",
+            "description": "Lorem ipsum here",
+            "price": 14.99
+        }
+    }
+]
